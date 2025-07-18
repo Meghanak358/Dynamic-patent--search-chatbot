@@ -2,7 +2,7 @@
 
 🚀 Live Demo
 
-🔗 [View Live][https://meghanak358.github.io/dynamic-patent--search-chatbot/]
+🔗 [View Live][http://localhost:8501/]
 
 command<br>
 1.pip install ddgs
