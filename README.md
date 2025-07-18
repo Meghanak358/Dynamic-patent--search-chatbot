@@ -3,7 +3,7 @@
 🚀 Live Demo
 
 
-🔗 [View Live]([(http://localhost:8501))
+🔗 [View Live]((http://localhost:8501))
 command<br>
 1.pip install ddgs
 <br>
