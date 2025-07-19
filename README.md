@@ -3,7 +3,7 @@
 🚀 Live Demo
 
 
-🔗 [View Live][https://meghanak358.github.io/dynamic-patent--search-chatbot]
+🔗 [View Live][https://meghanak358.github.io/Dynamic-patent--search-chatbot/]
 
 
 command<br>
