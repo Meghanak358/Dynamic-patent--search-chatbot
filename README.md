@@ -3,7 +3,7 @@
 🚀 Live Demo
 
 
-🔗 [View Portfolio Live](http://localhost:8501)
+🔗 [View Live](http://localhost:8501)
 
 
 command<br>
