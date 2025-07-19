@@ -3,7 +3,7 @@
 🚀 Live Demo
 
 
-🔗 [View Live](http://localhost:8501)
+🔗 [View Live][https://meghanak358.github.io/dynamic-patent--search-chatbot]
 
 
 command<br>
